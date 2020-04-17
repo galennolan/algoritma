@@ -13,3 +13,6 @@ int main(){
     return 0;
  
 }
+
+//parameter aktual --> parameter yang disertakan pada pemanggilan
+//parameter formal ---> parameter yang disertakan pada fungsi
