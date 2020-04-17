@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+ 
+void inifunction(int a=1, int b=2, int c=3){ // Parameter Formal 
+    cout<<a<<endl;
+    cout<<b<<endl;
+    cout<<c<<endl;
+}
+ 
+int main(){
+    inifunction(4,5,6); // parameter actual
+    inifunction();
+    return 0;
+ 
+}
